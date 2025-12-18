@@ -32,7 +32,7 @@ A proposta é explorar dados reais, transformando-os em variáveis relevantes pa
 ## 📁 Estrutura do Projeto
 
 ```text
-.
+
 ├── base.geral.csv/                 # Bases históricas utilizadas
 ├── historico.jogos/                # Scripts de coleta e tratamento de dados
 ├── modelo-logistico-gols0+.py/     # Modelo estatístico para ter pelo menos 1 gol
