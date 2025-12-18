@@ -25,6 +25,7 @@ A proposta é explorar dados reais, transformando-os em variáveis relevantes pa
 - NumPy
 - Scikit-learn
 - Jupyter Notebook / Scripts `.py`
+- BeautifulSoup
 
 ---
 
