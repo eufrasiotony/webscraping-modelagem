@@ -40,7 +40,7 @@ for index, prob in enumerate(y_pred_prob):
     lista_prob.append(probs)
 
 lista_prob = pd.DataFrame(lista_prob)
-lista_prob.to_csv('probs-games-1407-0.csv', index=False)
+lista_prob.to_csv('probs-games-0.csv', index=False)
 
 y_result_prob = np.concatenate((y_pred.reshape(len(y_pred), 1), y_pred_prob.reshape(len(y_pred_prob), 1)), 1)
 
